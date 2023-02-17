@@ -1,4 +1,4 @@
-let valor = 7
+let valor = 4
 
 function ConferindoValores() {
 
